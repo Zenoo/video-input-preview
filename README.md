@@ -8,8 +8,8 @@ Display a preview for your video inputs easily
 
 Simply import video-input-preview into your HTML.
 ```
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/video-input-preview@0.0.2/VideoInputPreview.min.css">
-<script src="https://unpkg.com/video-input-preview@0.0.2/VideoInputPreview.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/video-input-preview@0.0.3/VideoInputPreview.min.css">
+<script src="https://unpkg.com/video-input-preview@0.0.3/VideoInputPreview.min.js"></script>
 ```
 * **Documentation**
 
