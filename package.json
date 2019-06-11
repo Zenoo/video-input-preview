@@ -1,11 +1,11 @@
 {
   "name": "video-input-preview",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Display a preview for your video inputs easily",
   "main": "VideoInputPreview.js",
   "scripts": {
-	"test": "echo \"Error: no test specified\" && exit 1",
-	"preversion": "jsdoc . -R README.md -c docs/jsdoc-conf.json && git add * || true"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preversion": "jsdoc . -R README.md -c docs/jsdoc-conf.json && git add * || true"
   },
   "repository": {
     "type": "git",
