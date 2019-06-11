@@ -1,6 +1,6 @@
 {
   "name": "video-input-preview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Display a preview for your video inputs easily",
   "main": "VideoInputPreview.js",
   "scripts": {
