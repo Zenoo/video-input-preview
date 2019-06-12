@@ -78,7 +78,7 @@ class VideoInputPreview{
 		this.preview = document.createElement('video');
 
 		this.preview.classList.add('vip-preview');
-		this.preview.poster = this._uploadIcon;
+		if(!this._parameters.preview) this.preview.poster = this._uploadIcon;
 		this.preview.controls = 'true';
 		this.preview.width = 200;
 
